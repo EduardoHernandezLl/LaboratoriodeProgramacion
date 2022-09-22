@@ -7,7 +7,7 @@
 int main()
 {
 	{
-		"hola";
+		"hola"; "al fin pude";//aqui va su comentario
 
 	}
 	MemoryManager::dumpMemoryLeaks();
