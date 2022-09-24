@@ -144,6 +144,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="funciones.cpp" />
+    <ClCompile Include="practica1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="funciones.h" />

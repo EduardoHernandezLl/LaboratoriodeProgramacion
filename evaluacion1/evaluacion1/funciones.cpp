@@ -1,13 +1,21 @@
-#include "MemoryManager.h"
+#include"funciones.h"
 
-
-int main()
+float** ConstruirMatriz(int nFilas, int nColumnas) 
 {
-	{
 
 
-	}
-	MemoryManager::dumpMemoryLeaks();
-	system("PAUSE");
-	return 0;
+}
+void IntroducirDatos(MatFloat* pDestino) 
+{
+
+
+}
+void Mostrar(MatFloat mOrigen)
+{
+
+}
+void Destruir(MatFloat* pMatFloat) 
+{
+
+
 }
