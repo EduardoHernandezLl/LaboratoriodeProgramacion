@@ -8,7 +8,7 @@ float** ConstruirMatriz(int nFilas, int nColumnas)
   {
     printf("Insuficiente Memoria");
   }
-
+  printf("Hello!!!");
 }
 void IntroducirDatos(MatFloat* pDestino) 
 {
